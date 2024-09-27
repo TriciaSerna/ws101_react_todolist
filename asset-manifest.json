@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/ws101_react_todolist/static/css/main.2d00437f.css",
-    "main.js": "/ws101_react_todolist/static/js/main.cb995858.js",
-    "static/js/453.81f383cb.chunk.js": "/ws101_react_todolist/static/js/453.81f383cb.chunk.js",
-    "index.html": "/ws101_react_todolist/index.html",
-    "main.2d00437f.css.map": "/ws101_react_todolist/static/css/main.2d00437f.css.map",
-    "main.cb995858.js.map": "/ws101_react_todolist/static/js/main.cb995858.js.map",
-    "453.81f383cb.chunk.js.map": "/ws101_react_todolist/static/js/453.81f383cb.chunk.js.map"
+    "main.css": "/ws101_Serna_navbar/static/css/main.3e27273d.css",
+    "main.js": "/ws101_Serna_navbar/static/js/main.32d713f8.js",
+    "static/js/453.81f383cb.chunk.js": "/ws101_Serna_navbar/static/js/453.81f383cb.chunk.js",
+    "static/media/bg.png": "/ws101_Serna_navbar/static/media/bg.31c5ac919ec47552bb93.png",
+    "static/media/bg3.png": "/ws101_Serna_navbar/static/media/bg3.1288a517f613eb6287eb.png",
+    "index.html": "/ws101_Serna_navbar/index.html",
+    "main.3e27273d.css.map": "/ws101_Serna_navbar/static/css/main.3e27273d.css.map",
+    "main.32d713f8.js.map": "/ws101_Serna_navbar/static/js/main.32d713f8.js.map",
+    "453.81f383cb.chunk.js.map": "/ws101_Serna_navbar/static/js/453.81f383cb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2d00437f.css",
-    "static/js/main.cb995858.js"
+    "static/css/main.3e27273d.css",
+    "static/js/main.32d713f8.js"
   ]
 }
